@@ -1,4 +1,4 @@
 # hello-world
-Tutorial repository (by Github)
+Tutorial repository (from Github)
 Hi there!
 First round of changes...
